@@ -2,7 +2,32 @@
 
 Chaoleme builds compact tools around sync, desktop workflows, and practical software ideas.
 
-这里保留组织主页里最稳、最容易渲染的部分，不再依赖一堆第三方统计图卡。
+这里保留组织主页主体，同时补回你要的统计卡和图表样式。
+
+## Overview
+
+![Metrics](https://metrics.lecoq.io/Chaoleme?template=classic&lines=1&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&base.indepth=false&base.hireable=false&base.skip=false&lines=false&config.timezone=Asia%2FShanghai)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chaoleme&count_private=true&show_icons=true" alt="Chaoleme GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaoleme&layout=compact&count_private=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Chaoleme&row=2&column=3" alt="Chaoleme trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chaoleme" alt="Chaoleme streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chaoleme&theme=github" alt="Chaoleme activity graph" />
+</p>
+
+## Contribution Snake
+
+![Chaoleme](https://raw.githubusercontent.com/Chaoleme/.github/output/github-contribution-grid-snake.svg)
 
 ## Featured Work
 
