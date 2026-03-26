@@ -16,29 +16,43 @@ Chaoleme builds compact tools around sync, desktop workflows, and practical soft
 
 <img src="./projects-card.svg" alt="Chaoleme featured projects card" width="100%" />
 
-<p align="center">
-  <a href="https://github.com/Chaoleme/ClipCascade_go">
-    <img src="https://img.shields.io/github/stars/Chaoleme/ClipCascade_go?style=for-the-badge" alt="ClipCascade_go stars" />
-  </a>
-  <a href="https://github.com/Chaoleme/Eyes-on-me">
-    <img src="https://img.shields.io/github/stars/Chaoleme/Eyes-on-me?style=for-the-badge" alt="Eyes-on-me stars" />
-  </a>
-  <a href="https://github.com/Chaoleme/Chaoleme">
-    <img src="https://img.shields.io/github/stars/Chaoleme/Chaoleme?style=for-the-badge" alt="Chaoleme repo stars" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Chaoleme/ClipCascade_go">
-    <img src="https://img.shields.io/github/last-commit/Chaoleme/ClipCascade_go?style=for-the-badge" alt="ClipCascade_go last commit" />
-  </a>
-  <a href="https://github.com/Chaoleme/Eyes-on-me">
-    <img src="https://img.shields.io/github/last-commit/Chaoleme/Eyes-on-me?style=for-the-badge" alt="Eyes-on-me last commit" />
-  </a>
-  <a href="https://github.com/Chaoleme/Chaoleme">
-    <img src="https://img.shields.io/github/last-commit/Chaoleme/Chaoleme?style=for-the-badge" alt="Chaoleme repo last commit" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/Chaoleme/ClipCascade_go"><strong>ClipCascade_go</strong></a><br />
+      <sub>Core shipping track</sub><br /><br />
+      <a href="https://github.com/Chaoleme/ClipCascade_go">
+        <img src="https://img.shields.io/github/stars/Chaoleme/ClipCascade_go?style=flat-square&logo=github&label=stars&color=1f2937&labelColor=16a34a" alt="ClipCascade_go stars" />
+      </a>
+      <br />
+      <a href="https://github.com/Chaoleme/ClipCascade_go">
+        <img src="https://img.shields.io/github/last-commit/Chaoleme/ClipCascade_go?style=flat-square&logo=git&label=updated&color=1f2937&labelColor=16a34a" alt="ClipCascade_go last commit" />
+      </a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/Chaoleme/Eyes-on-me"><strong>Eyes-on-me</strong></a><br />
+      <sub>Active iteration</sub><br /><br />
+      <a href="https://github.com/Chaoleme/Eyes-on-me">
+        <img src="https://img.shields.io/github/stars/Chaoleme/Eyes-on-me?style=flat-square&logo=github&label=stars&color=1f2937&labelColor=0284c7" alt="Eyes-on-me stars" />
+      </a>
+      <br />
+      <a href="https://github.com/Chaoleme/Eyes-on-me">
+        <img src="https://img.shields.io/github/last-commit/Chaoleme/Eyes-on-me?style=flat-square&logo=git&label=updated&color=1f2937&labelColor=0284c7" alt="Eyes-on-me last commit" />
+      </a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/Chaoleme/Chaoleme"><strong>Chaoleme</strong></a><br />
+      <sub>Org presentation repo</sub><br /><br />
+      <a href="https://github.com/Chaoleme/Chaoleme">
+        <img src="https://img.shields.io/github/stars/Chaoleme/Chaoleme?style=flat-square&logo=github&label=stars&color=1f2937&labelColor=d97706" alt="Chaoleme repo stars" />
+      </a>
+      <br />
+      <a href="https://github.com/Chaoleme/Chaoleme">
+        <img src="https://img.shields.io/github/last-commit/Chaoleme/Chaoleme?style=flat-square&logo=git&label=updated&color=1f2937&labelColor=d97706" alt="Chaoleme repo last commit" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## Contribution Snake
 
