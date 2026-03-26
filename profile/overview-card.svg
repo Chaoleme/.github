@@ -1,0 +1,38 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="40" y1="24" x2="1160" y2="296" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="80" y1="0" x2="1120" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22C55E"/>
+      <stop offset="0.5" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+  </defs>
+  <rect x="12" y="12" width="1176" height="296" rx="28" fill="url(#bg)"/>
+  <rect x="12" y="12" width="1176" height="296" rx="28" stroke="#1F2937" stroke-width="2"/>
+  <rect x="44" y="40" width="164" height="10" rx="5" fill="url(#accent)"/>
+  <text x="44" y="92" fill="#F8FAFC" font-size="38" font-family="Arial, Helvetica, sans-serif" font-weight="700">Chaoleme Dashboard</text>
+  <text x="44" y="124" fill="#94A3B8" font-size="18" font-family="Arial, Helvetica, sans-serif">Compact tools for sync, desktop workflow, and practical software shipping.</text>
+
+  <rect x="44" y="166" width="250" height="108" rx="20" fill="#111827" stroke="#334155"/>
+  <text x="68" y="202" fill="#86EFAC" font-size="14" font-family="Arial, Helvetica, sans-serif">FOCUS</text>
+  <text x="68" y="236" fill="#F8FAFC" font-size="28" font-family="Arial, Helvetica, sans-serif" font-weight="700">Cross-device Sync</text>
+  <text x="68" y="260" fill="#94A3B8" font-size="16" font-family="Arial, Helvetica, sans-serif">Clipboard and workflow tools</text>
+
+  <rect x="320" y="166" width="250" height="108" rx="20" fill="#111827" stroke="#334155"/>
+  <text x="344" y="202" fill="#7DD3FC" font-size="14" font-family="Arial, Helvetica, sans-serif">SURFACE</text>
+  <text x="344" y="236" fill="#F8FAFC" font-size="28" font-family="Arial, Helvetica, sans-serif" font-weight="700">Desktop Products</text>
+  <text x="344" y="260" fill="#94A3B8" font-size="16" font-family="Arial, Helvetica, sans-serif">Utility first and direct UX</text>
+
+  <rect x="596" y="166" width="250" height="108" rx="20" fill="#111827" stroke="#334155"/>
+  <text x="620" y="202" fill="#FCD34D" font-size="14" font-family="Arial, Helvetica, sans-serif">SHOWCASE</text>
+  <text x="620" y="236" fill="#F8FAFC" font-size="28" font-family="Arial, Helvetica, sans-serif" font-weight="700">3 Core Repos</text>
+  <text x="620" y="260" fill="#94A3B8" font-size="16" font-family="Arial, Helvetica, sans-serif">ClipCascade_go, Eyes-on-me, Chaoleme</text>
+
+  <rect x="872" y="166" width="272" height="108" rx="20" fill="#111827" stroke="#334155"/>
+  <text x="896" y="202" fill="#C4B5FD" font-size="14" font-family="Arial, Helvetica, sans-serif">PROFILE</text>
+  <text x="896" y="236" fill="#F8FAFC" font-size="28" font-family="Arial, Helvetica, sans-serif" font-weight="700">Org README Live</text>
+  <text x="896" y="260" fill="#94A3B8" font-size="16" font-family="Arial, Helvetica, sans-serif">Stable local SVG cards for GitHub org pages</text>
+</svg>

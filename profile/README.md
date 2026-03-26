@@ -2,27 +2,42 @@
 
 Chaoleme builds compact tools around sync, desktop workflows, and practical software ideas.
 
-这里保留组织主页主体，同时补回你要的统计卡和图表样式。
+这里保留组织主页主体，并改成组织账号稳定可用的卡片版本。
 
 ## Overview
 
-![Metrics](https://metrics.lecoq.io/Chaoleme?template=classic&lines=1&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&base.indepth=false&base.hireable=false&base.skip=false&lines=false&config.timezone=Asia%2FShanghai)
+<img src="./overview-card.svg" alt="Chaoleme overview card" width="100%" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chaoleme&count_private=true&show_icons=true" alt="Chaoleme GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaoleme&layout=compact&count_private=true" alt="Top languages" />
+  <img src="./project-map.svg" alt="Chaoleme project map" width="100%" />
+</p>
+
+## Featured Projects
+
+<img src="./projects-card.svg" alt="Chaoleme featured projects card" width="100%" />
+
+<p align="center">
+  <a href="https://github.com/Chaoleme/ClipCascade_go">
+    <img src="https://img.shields.io/github/stars/Chaoleme/ClipCascade_go?style=for-the-badge" alt="ClipCascade_go stars" />
+  </a>
+  <a href="https://github.com/Chaoleme/Eyes-on-me">
+    <img src="https://img.shields.io/github/stars/Chaoleme/Eyes-on-me?style=for-the-badge" alt="Eyes-on-me stars" />
+  </a>
+  <a href="https://github.com/Chaoleme/Chaoleme">
+    <img src="https://img.shields.io/github/stars/Chaoleme/Chaoleme?style=for-the-badge" alt="Chaoleme repo stars" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chaoleme&row=2&column=3" alt="Chaoleme trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chaoleme" alt="Chaoleme streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chaoleme&theme=github" alt="Chaoleme activity graph" />
+  <a href="https://github.com/Chaoleme/ClipCascade_go">
+    <img src="https://img.shields.io/github/last-commit/Chaoleme/ClipCascade_go?style=for-the-badge" alt="ClipCascade_go last commit" />
+  </a>
+  <a href="https://github.com/Chaoleme/Eyes-on-me">
+    <img src="https://img.shields.io/github/last-commit/Chaoleme/Eyes-on-me?style=for-the-badge" alt="Eyes-on-me last commit" />
+  </a>
+  <a href="https://github.com/Chaoleme/Chaoleme">
+    <img src="https://img.shields.io/github/last-commit/Chaoleme/Chaoleme?style=for-the-badge" alt="Chaoleme repo last commit" />
+  </a>
 </p>
 
 ## Contribution Snake
