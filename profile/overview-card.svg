@@ -6,8 +6,7 @@
     </linearGradient>
     <linearGradient id="accent" x1="80" y1="0" x2="1120" y2="0" gradientUnits="userSpaceOnUse">
       <stop stop-color="#22C55E"/>
-      <stop offset="0.5" stop-color="#38BDF8"/>
-      <stop offset="1" stop-color="#F59E0B"/>
+      <stop offset="1" stop-color="#38BDF8"/>
     </linearGradient>
   </defs>
   <rect x="12" y="12" width="1176" height="296" rx="28" fill="url(#bg)"/>
@@ -27,12 +26,12 @@
   <text x="344" y="260" fill="#94A3B8" font-size="16" font-family="Arial, Helvetica, sans-serif">Utility first and direct UX</text>
 
   <rect x="596" y="166" width="250" height="108" rx="20" fill="#111827" stroke="#334155"/>
-  <text x="620" y="202" fill="#FCD34D" font-size="14" font-family="Arial, Helvetica, sans-serif">SHOWCASE</text>
-  <text x="620" y="236" fill="#F8FAFC" font-size="28" font-family="Arial, Helvetica, sans-serif" font-weight="700">3 Core Repos</text>
-  <text x="620" y="260" fill="#94A3B8" font-size="16" font-family="Arial, Helvetica, sans-serif">ClipCascade_go, Eyes-on-me, Chaoleme</text>
+  <text x="620" y="202" fill="#67E8F9" font-size="14" font-family="Arial, Helvetica, sans-serif">SHOWCASE</text>
+  <text x="620" y="236" fill="#F8FAFC" font-size="28" font-family="Arial, Helvetica, sans-serif" font-weight="700">2 Main Repos</text>
+  <text x="620" y="260" fill="#94A3B8" font-size="16" font-family="Arial, Helvetica, sans-serif">ClipCascade_go and Eyes-on-me</text>
 
   <rect x="872" y="166" width="272" height="108" rx="20" fill="#111827" stroke="#334155"/>
-  <text x="896" y="202" fill="#C4B5FD" font-size="14" font-family="Arial, Helvetica, sans-serif">PROFILE</text>
-  <text x="896" y="236" fill="#F8FAFC" font-size="28" font-family="Arial, Helvetica, sans-serif" font-weight="700">Org README Live</text>
-  <text x="896" y="260" fill="#94A3B8" font-size="16" font-family="Arial, Helvetica, sans-serif">Stable local SVG cards for GitHub org pages</text>
+  <text x="896" y="202" fill="#A5F3FC" font-size="14" font-family="Arial, Helvetica, sans-serif">PROFILE</text>
+  <text x="896" y="236" fill="#F8FAFC" font-size="28" font-family="Arial, Helvetica, sans-serif" font-weight="700">Lean Org Surface</text>
+  <text x="896" y="260" fill="#94A3B8" font-size="16" font-family="Arial, Helvetica, sans-serif">Only the active products stay highlighted</text>
 </svg>
